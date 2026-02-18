@@ -247,3 +247,207 @@
 //     printf("Think always big");
 //     return 0;
 // }
+
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Hello Rajat\n");
+//     printf("I m learning C\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main() {
+//     printf("My name is Rajat chhabra");
+//     printf("I live in Chandigarh");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("My name is Rajat chhabra\n");
+//     printf("I live in Chandigarh\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Hey");
+//     printf("Good Morning");
+//     printf("Let's code!");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Hey\n");
+//     printf("Good Morning\n");
+//     printf("Let's code!\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Heyyy");
+//     printf("Heyy my name is Rajat chhabra");
+//     printf("i m Learning C programming Language!!");
+//     printf("I m Loving it");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Heyyy\n");
+//     printf("Heyy ny name is Rajat chhabra\n");
+//     printf("I m Learning C programming Language!!\n");
+//     printf("I m Loving it\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Rajat\nChhabra\nChandigarh\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+//  int main(){
+//     printf("Rajat");
+//     printf(" ");
+//     printf("Chhabra");
+//     printf(" ");
+//     printf("Chandigarh");
+//     return 0;
+//  }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Rajat\nChhabra\nChandigarh\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("My name is Rajat Chhabra\nI m from Haryana Karnal\nI m Learning C language\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Worklikehell\nUntil u win\nThink always big\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Rajat\nChhabra\n--Worklikehell\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("I ");
+//     printf("Love ");
+//     printf("C language\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("I ");
+//     printf("Love ");
+//     printf("C language");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+
+// int main(){
+//     printf("Line 1\n");
+//     printf("Line 2\n");
+//     printf("Line 3\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Line 1 ");
+//     printf("Line 2 ");
+//     printf("Line 3");
+//     return 0;
+// }
+
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Hello ");
+//     printf("World!!!\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Hello World!!!");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("Rajat\n");
+//     printf("chhabra\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("My goal = ");
+//     printf("Make operating system\n");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("My goal = ");
+//     printf("Make operating system");
+//     return 0;
+// }
+
+// #include<stdio.h>
+
+// int main(){
+//     printf("My name is Rajat chhabra ");
+//     printf("I m from Haryana Karnal ");
+//     printf("I m Learning C Language ");
+//     return 0;
+// }
+
+// #include <stdio.h>
+
+// int main(){
+//     printf("My name is Rajat chhabra\n");
+//     printf("I m from Haryana Karnal\n");
+//     printf("I m Learning C Language\n");
+//     return 0;
+// }
